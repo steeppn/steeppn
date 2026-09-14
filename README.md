@@ -142,41 +142,35 @@ flowchart LR
 </td>
 
 </tr>
-
-<tr>
-
-<td align="center" width="25%">
-  <img src="./assets/certs/autocad.png"
-       height="58"
-       style="filter: grayscale(1) brightness(0);"/><br><br>
-  <strong>AutoCAD ATC</strong><br>
-  <sub><code>CERTIFIED</code></sub>
-</td>
-
-<td align="center" width="25%">
-  <img src="https://cdn.simpleicons.org/microsoftazure/B9C68F"
-       height="58"/><br><br>
-  <strong>AI-200</strong><br>
-  <sub><code>PREPARING</code></sub>
-</td>
-
-<td align="center" width="25%">
-  <img src="./assets/certs/edx.png"
-       height="58"/><br><br>
-  <strong>HKUST Big Data</strong><br>
-  <sub><code>IN PROGRESS</code></sub>
-</td>
-
-<td></td>
-
-</tr>
 </table>
 
 <br>
 
-<sub>
-<strong>Current focus:</strong> Microsoft AI-200 · HKUST Big Data MicroMasters
-</sub>
+<table>
+<tr>
+
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/autodesk" height="58"/><br><br>
+  <strong>AutoCAD ATC</strong><br>
+  <sub><code>CERTIFIED</code></sub>
+</td>
+ 
+<td align="center" width="50%">
+  <div>
+    <img src="https://www.pngkey.com/png/detail/362-3629079_hkust-hong-kong-university-of-science-and-technology.png"
+         height="58"/>
+    <br>
+    <img src="https://cdn.simpleicons.org/edx"
+         height="50"
+         style="margin-top:4px;"/>
+  </div>
+  <br>
+  <strong>HKUST Big Data</strong><br>
+  <sub><code>IN PROGRESS</code></sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
