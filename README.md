@@ -106,20 +106,79 @@ flowchart LR
 
 <div align="center">
 
-| Certification                   |     Status    |
-| :------------------------------ | :-----------: |
-| **Cisco CCNA**                  |  `CERTIFIED`  |
-| **CompTIA Security+**           |  `CERTIFIED`  |
-| **AWS Cloud Practitioner**      |  `CERTIFIED`  |
-| **Cisco CCST Networking**       |  `CERTIFIED`  |
-| **AutoCAD ATC**                 |  `CERTIFIED`  |
-| **Microsoft AI-200**            |  `PREPARING`  |
-| **HKUST Big Data MicroMasters** | `IN PROGRESS` |
+<table>
+<tr>
 
-</div>
+<td align="center" width="25%">
+  <a href="https://www.credly.com/badges/fada4d82-5d1b-44b6-955a-6ec47f003abe/public_url">
+    <img src="./assets/certs/ccna.png" height="105"/>
+  </a><br>
+  <strong>CCNA</strong><br>
+  <sub><code>CERTIFIED</code></sub>
+</td>
+
+<td align="center" width="25%">
+  <a href="https://www.credly.com/badges/ebc9e240-1635-4b54-87be-19912f779177/public_url">
+    <img src="./assets/certs/security-plus.png" height="105"/>
+  </a><br>
+  <strong>Security+</strong><br>
+  <sub><code>CERTIFIED</code></sub>
+</td>
+
+<td align="center" width="25%">
+  <a href="https://www.credly.com/badges/e613925d-b003-4f1b-a134-e4d052580783/public_url">
+    <img src="./assets/certs/aws-cloud-practitioner.png" height="105"/>
+  </a><br>
+  <strong>AWS Cloud Practitioner</strong><br>
+  <sub><code>CERTIFIED</code></sub>
+</td>
+
+<td align="center" width="25%">
+  <a href="https://www.credly.com/badges/8b8f3128-7373-4eba-ab11-424bc3706bcb/public_url">
+    <img src="./assets/certs/ccst-networking.png" height="105"/>
+  </a><br>
+  <strong>CCST Networking</strong><br>
+  <sub><code>CERTIFIED</code></sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+  <img src="./assets/certs/autocad.png"
+       height="58"
+       style="filter: grayscale(1) brightness(0);"/><br><br>
+  <strong>AutoCAD ATC</strong><br>
+  <sub><code>CERTIFIED</code></sub>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/microsoftazure/B9C68F"
+       height="58"/><br><br>
+  <strong>AI-200</strong><br>
+  <sub><code>PREPARING</code></sub>
+</td>
+
+<td align="center" width="25%">
+  <img src="./assets/certs/edx.png"
+       height="58"/><br><br>
+  <strong>HKUST Big Data</strong><br>
+  <sub><code>IN PROGRESS</code></sub>
+</td>
+
+<td></td>
+
+</tr>
+</table>
 
 <br>
 
+<sub>
+<strong>Current focus:</strong> Microsoft AI-200 · HKUST Big Data MicroMasters
+</sub>
+
+</div>
 
 ---
 
