@@ -1,107 +1,275 @@
 <div align="center">
 
-# Stephen
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1a2416&text=Stephen&nbsp;Alegros&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Cloud%20%7C%20Networking%20%7C%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-**Cloud · Networking · DevOps**
+<br>
 
-Self-directed IT professional building toward Backend / Cloud Infrastructure Engineering
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=6B8E23&center=true&vCenter=true&width=700&lines=Building+cloud+%26+network+infrastructure;Automating+infrastructure+with+Python;Networking+%E2%86%92+Cloud+%E2%86%92+DevOps;Designing+and+deploying+real+systems" />
 
-![Cloud](https://img.shields.io/badge/Cloud-AWS_%2F_Azure-6B8E23?style=flat-square&logo=amazonaws&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Cisco-6B8E23?style=flat-square&logo=cisco&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-Docker-6B8E23?style=flat-square&logo=docker&logoColor=white)
-![Security](https://img.shields.io/badge/Security-CompTIA-6B8E23?style=flat-square&logo=comptia&logoColor=white)
+<br><br>
+
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-6B8E23?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-Cisco-6B8E23?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-Docker-6B8E23?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-CompTIA-6B8E23?style=for-the-badge&logo=security&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=steeppn&style=flat-square&color=6B8E23&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+```text
+Stephen Alegros
+────────────────────────────────────────────────────────────
+
+Focus       : Cloud Infrastructure • Networking • DevOps
+Education   : BSc Computer Science — University of the People
+Location    : Philippines
+
+Background  : Networking, cloud infrastructure, automation
+              and systems engineering
+
+Goal        : Cloud / DevOps / Cisco DevNet Engineering
+
+Approach    : Understand the system → build it → troubleshoot it
+              → automate it
+```
+
+---
+
+## `> about`
+
+I'm a self-directed IT/CS student building toward **Cloud Infrastructure, DevOps, and Network Automation**.
+
+My background started around networking and infrastructure before expanding into cloud architecture, containerization, automation, serverless systems, and AI-enabled infrastructure.
+
+I particularly enjoy projects where multiple infrastructure layers have to work together — networks routing traffic, containers running services, APIs moving data, and cloud systems responding to events.
+
+### Technical progression
+
+```mermaid
+flowchart LR
+    N["NETWORKING"]
+    C["CLOUD"]
+    A["AUTOMATION"]
+    D["DEVOPS"]
+    AI["CLOUD / AI"]
+
+    N --> C --> A --> D --> AI
+
+    N1["Cisco<br/>IOS · VLANs · OSPF · HSRP"]
+    C1["AWS<br/>VPC · EC2 · ALB · RDS"]
+    C2["Microsoft Azure<br/>Functions · Bicep"]
+    A1["Python<br/>Bash · APIs · Automation"]
+    D1["Docker<br/>Linux · Terraform"]
+    AI1["Azure AI<br/>Foundry · AI Search · Vector Search"]
+
+    N -.-> N1
+    C -.-> C1
+    C -.-> C2
+    A -.-> A1
+    D -.-> D1
+    AI -.-> AI1
+
+    classDef stage fill:#FFFFFF,stroke:#6B8E23,color:#111111,stroke-width:2px
+    classDef vendor fill:#FFFFFF,stroke:#9AA38C,color:#222222,stroke-width:1px
+
+    class N,C,A,D,AI stage
+    class N1,C1,C2,A1,D1,AI1 vendor
+
+    linkStyle 0,1,2,3 stroke:#6B8E23,stroke-width:2px
+    linkStyle 4,5,6,7,8,9 stroke:#9AA38C,stroke-width:1px
+```
+
+## `> stack`
+
+### Cloud & Infrastructure
+`AWS` `Azure` `Docker` `Linux` `Terraform` `Bicep`
+`VPC` `EC2` `ALB` `RDS` `Azure Functions`
+
+### Networking
+`Cisco IOS` `VLANs` `OSPF` `HSRP` `STP` `EtherChannel` `ACLs` `SSH` `MQTT`
+
+### Languages & Frameworks
+`Python` `C` `C#` `Bash` `FastAPI` `HTML`
+
+### AI & Data
+`Azure AI Foundry` `Azure AI Search` `Vector Search`
+`LLM Applications` `Multi-Agent Systems`
+
+## `> certifications`
+
+<div align="center">
+
+| Certification                   |     Status    |
+| :------------------------------ | :-----------: |
+| **Cisco CCNA**                  |  `CERTIFIED`  |
+| **CompTIA Security+**           |  `CERTIFIED`  |
+| **AWS Cloud Practitioner**      |  `CERTIFIED`  |
+| **Cisco CCST Networking**       |  `CERTIFIED`  |
+| **AutoCAD ATC**                 |  `CERTIFIED`  |
+| **Microsoft AI-200**            |  `PREPARING`  |
+| **HKUST Big Data MicroMasters** | `IN PROGRESS` |
 
 </div>
 
 <br>
 
-## About
 
-- Studying BSc Computer Science at the University of the People
-- Based in the Philippines
-- 2+ years of volunteer IT/AV technician experience under CCNA-certified network engineers
-- Completed a full certification stack across an intensive six-month self-directed period
-- Long-term goal: specializing in DevOps or Cisco DevNet engineering
+---
 
-<br>
+## `> projects`
 
-## Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Cloud & Infrastructure**
+### CRUCIBLE Enterprise
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=6B8E23)
-![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=microsoftazure&logoColor=6B8E23)
-![Docker](https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=docker&logoColor=6B8E23)
-![Linux](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=6B8E23)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-232F3E?style=flat-square&logo=azurefunctions&logoColor=6B8E23)
-![Vector Databases](https://img.shields.io/badge/Vector_Databases-232F3E?style=flat-square)
+**Voice-first multi-agent certification readiness platform**
 
-**Networking**
+Built for the Microsoft Foundry Hackathon.
 
-![Cisco](https://img.shields.io/badge/Cisco_IOS-232F3E?style=flat-square&logo=cisco&logoColor=6B8E23)
-![MQTT](https://img.shields.io/badge/MQTT-232F3E?style=flat-square&logo=mqtt&logoColor=6B8E23)
+Six specialized AI agents conduct live spoken interrogation against a grounded knowledge base and generate:
 
-**Languages & Frameworks**
+* Readiness scores
+* Training recommendations
+* Team analytics
+* Knowledge-grounded responses
 
-![Python](https://img.shields.io/badge/Python-232F3E?style=flat-square&logo=python&logoColor=6B8E23)
-![FastAPI](https://img.shields.io/badge/FastAPI-232F3E?style=flat-square&logo=fastapi&logoColor=6B8E23)
-![C](https://img.shields.io/badge/C-232F3E?style=flat-square&logo=c&logoColor=6B8E23)
-![C#](https://img.shields.io/badge/C%23-232F3E?style=flat-square&logo=csharp&logoColor=6B8E23)
-![HTML5](https://img.shields.io/badge/HTML5-232F3E?style=flat-square&logo=html5&logoColor=6B8E23)
-![Bash](https://img.shields.io/badge/Bash_(Windows)-232F3E?style=flat-square&logo=gnubash&logoColor=6B8E23)
+**Stack**
 
-<br>
+`Azure AI Foundry`
+`Azure Voice Live`
+`Azure AI Search`
+`FastAPI`
+`Python`
 
-## Certifications
+<a href="https://github.com/steeppn/crucible-enterprise">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6B8E23?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-6B8E23?style=flat-square)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-6B8E23?style=flat-square)
-![AWS CP](https://img.shields.io/badge/AWS-Cloud_Practitioner-6B8E23?style=flat-square)
-![CCST](https://img.shields.io/badge/Cisco-CCST_Networking-6B8E23?style=flat-square)
-![AI-200](https://img.shields.io/badge/Microsoft-AI--200-6B8E23?style=flat-square&logo=microsoft)
+</td>
 
-Currently pursuing the MicroMasters in Big Data Technology (HKUST) via edX, and preparing for AI-200 (Azure AI Cloud Developer Associate) — covering containerized AI compute, vector databases, event-driven pipelines, and Azure backend observability.
+<td width="50%" valign="top">
 
-<br>
+### AWS Three-Tier Infrastructure
 
-## Projects
+**Production-style cloud architecture**
 
-**CRUCIBLE Enterprise**
-Voice-first multi-agent certification readiness system built for the Microsoft Foundry Hackathon. Six specialized agents run live spoken interrogation against a grounded knowledge base, producing readiness scores, training recommendations, and team-level analytics. Built on the Azure AI Foundry SDK with real-time speech-to-text and text-to-speech, Azure AI Search, and a FastAPI backend.
-`Azure AI Foundry` `Azure Voice Live` `Azure AI Search` `FastAPI` `Python`
-[View repository](https://github.com/steeppn/crucible-enterprise)
+Designed and deployed in `ap-southeast-2`.
 
-**AWS Three-Tier Web Infrastructure**
-Production-style high-availability architecture deployed and verified in AWS ap-southeast-2. Custom VPC across two availability zones, auto-scaled web and app tiers behind chained load balancers, and a Multi-AZ-ready RDS backend, secured with tier-to-tier security groups on the least-privilege principle.
-`AWS VPC` `EC2 / Auto Scaling` `RDS` `ALB` `IAM`
-[View repository](https://github.com/steeppn/AWS-Three-Tier-Web-Application---Alegros)
+Features:
 
-**IoT-Enabled Motor Control & Telemetry System**
-Simulated industrial IoT deployment: an ESP32 publishes motor temperature and current telemetry over MQTT into a serverless AWS pipeline running locally on LocalStack, with automated fault detection, safety interlocks, and a real-time Streamlit dashboard.
-`MQTT` `AWS Lambda` `DynamoDB` `LocalStack` `Docker`
-[View repository](https://github.com/steeppn/IoT-Enabled-Motor-Control-System)
+* Multi-AZ architecture
+* Custom VPC
+* Auto Scaling
+* Chained Application Load Balancers
+* RDS backend
+* Tier-specific security groups
+* Least-privilege access model
 
-**Enterprise Network Capstone**
-Three-tier enterprise network built as a CCNA capstone: VLAN segmentation, HSRP gateway redundancy, and OSPF routing across a dual-router, dual-distribution-switch topology. Secured with layered ACLs, SSH-only management, and WPA2-PSK wireless with an isolated guest VLAN.
-`VLANs` `OSPF` `HSRP` `ACLs` `Cisco IOS`
-[View repository](https://github.com/steeppn/ccna_overall_project-alegros)
+**Stack**
 
-<br>
+`AWS VPC`
+`EC2` `Auto Scaling`
+`ALB` `RDS` `IAM`
 
-## GitHub Stats
+<a href="https://github.com/steeppn/AWS-Three-Tier-Web-Application---Alegros">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6B8E23?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### IoT Motor Telemetry
+
+**Industrial IoT simulation and serverless pipeline**
+
+ESP32 telemetry → MQTT → Lambda → DynamoDB → dashboard.
+
+Includes:
+
+* Motor temperature monitoring
+* Current monitoring
+* Automated fault detection
+* Safety interlocks
+* Real-time telemetry dashboard
+* Local AWS simulation through LocalStack
+
+**Stack**
+
+`ESP32` `MQTT`
+`Lambda` `DynamoDB`
+`LocalStack` `Docker` `Streamlit`
+
+<a href="https://github.com/steeppn/IoT-Enabled-Motor-Control-System">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6B8E23?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Enterprise Network Capstone
+
+**Three-tier enterprise network**
+
+Designed around a dual-router / dual-distribution architecture.
+
+Includes:
+
+* VLAN segmentation
+* OSPF routing
+* HSRP gateway redundancy
+* RPVST+
+* Layered ACLs
+* SSH-only management
+* WPA2-PSK wireless
+* Isolated guest network
+
+**Stack**
+
+`Cisco IOS`
+`VLAN` `OSPF` `HSRP`
+`STP` `ACL` `SSH`
+
+<a href="https://github.com/steeppn/ccna_overall_project-alegros">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6B8E23?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> contact`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=steeppn&show_icons=true&hide_border=true&bg_color=ffffff&title_color=556B2F&icon_color=6B8E23&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steeppn&layout=compact&hide_border=true&bg_color=ffffff&title_color=556B2F&text_color=333333" />
-</div>
 
-<br>
+<a href="https://github.com/steeppn">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## Contact
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6B8E23"/>
+</a>
 
-<div align="center">
+<a href="mailto:YOUR-EMAIL">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6B8E23"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6B8E23?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-6B8E23?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a2416,100:0d1117"/>
 
 </div>
