@@ -1,6 +1,6 @@
 <div align="center">
 
-# Steph
+# Stephen
 
 **Cloud · Networking · DevOps**
 
