@@ -33,6 +33,8 @@ Self-directed IT professional building toward Backend / Cloud Infrastructure Eng
 ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat-square&logo=microsoftazure&logoColor=6B8E23)
 ![Docker](https://img.shields.io/badge/Docker-232F3E?style=flat-square&logo=docker&logoColor=6B8E23)
 ![Linux](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=6B8E23)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-232F3E?style=flat-square&logo=azurefunctions&logoColor=6B8E23)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-232F3E?style=flat-square)
 
 **Networking**
 
@@ -45,6 +47,8 @@ Self-directed IT professional building toward Backend / Cloud Infrastructure Eng
 ![FastAPI](https://img.shields.io/badge/FastAPI-232F3E?style=flat-square&logo=fastapi&logoColor=6B8E23)
 ![C](https://img.shields.io/badge/C-232F3E?style=flat-square&logo=c&logoColor=6B8E23)
 ![C#](https://img.shields.io/badge/C%23-232F3E?style=flat-square&logo=csharp&logoColor=6B8E23)
+![HTML5](https://img.shields.io/badge/HTML5-232F3E?style=flat-square&logo=html5&logoColor=6B8E23)
+![Bash](https://img.shields.io/badge/Bash_(Windows)-232F3E?style=flat-square&logo=gnubash&logoColor=6B8E23)
 
 <br>
 
@@ -54,8 +58,9 @@ Self-directed IT professional building toward Backend / Cloud Infrastructure Eng
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-6B8E23?style=flat-square)
 ![AWS CP](https://img.shields.io/badge/AWS-Cloud_Practitioner-6B8E23?style=flat-square)
 ![CCST](https://img.shields.io/badge/Cisco-CCST_Networking-6B8E23?style=flat-square)
+![AI-200](https://img.shields.io/badge/Microsoft-AI--200-6B8E23?style=flat-square&logo=microsoft)
 
-Currently pursuing the MicroMasters in Big Data Technology (HKUST) via edX.
+Currently pursuing the MicroMasters in Big Data Technology (HKUST) via edX, and preparing for AI-200 (Azure AI Cloud Developer Associate) — covering containerized AI compute, vector databases, event-driven pipelines, and Azure backend observability.
 
 <br>
 
