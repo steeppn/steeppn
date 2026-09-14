@@ -163,7 +163,7 @@ flowchart LR
          style="margin-top:4px;"/>
   </div>
   <br>
-  <strong>HKUST Big Data</strong><br>
+  <strong>MicroMasters™<br>HKUST Big Data</strong><br>
   <sub><code>IN PROGRESS</code></sub>
 </td>
 
