@@ -46,7 +46,7 @@ I'm a self-directed IT/CS student building toward **Cloud Infrastructure, DevOps
 
 My background started around networking and infrastructure before expanding into cloud architecture, containerization, automation, serverless systems, and AI-enabled infrastructure.
 
-I particularly enjoy projects where multiple infrastructure layers have to work together — networks routing traffic, containers running services, APIs moving data, and cloud systems responding to events.
+I particularly enjoy projects where multiple infrastructure layers have to work together; networks routing traffic, containers running services, APIs moving data, and cloud systems responding to events.
 
 ### Technical progression
 
